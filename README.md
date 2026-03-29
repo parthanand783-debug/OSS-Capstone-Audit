@@ -1,6 +1,11 @@
 # Open Source Software Audit: Git (Version Control System)
 
-This repository contains a technical audit and automated shell scripts developed for the **Capstone Project** at VIT Bhopal University. The project explores the origin, licensing, and Linux integration of Git, the world's most popular open-source version control system.
+This repository contains a technical audit and automated shell scripts developed for the  VIT Bhopal University. The project explores the origin, licensing, and Linux integration of Git, the world's most popular open-source version control system.
+
+Name :Parth Anand
+Reg no: 24BCE11223
+COURSE CODE: CSE0002
+SLOT : E11
 
 ##  Project Overview
 - **Audit Subject:** Git
@@ -22,8 +27,7 @@ To run these scripts on an Ubuntu/Debian system, follow these steps:
 
 1. Clone the Repository:
    ```b
-   git clone https://github.com/Aryawart-Gupta/OSS-Capstone-Audit
-   cd OSS-Capstone-Audit
+   git clone [(https://github.com/parthanand783-debug/OSS-Capstone-Audit.git)]
 2. Grant Execution Permissions:
    chmod +x *.sh
 3. Execute a script:
