@@ -4,6 +4,7 @@ This repository contains a technical audit and automated shell scripts developed
 
 Name :Parth Anand
 Reg no: 24BCE11223
+COURSE NAME : OPEN SOURCE SOFTWARE(LINUX ADMINISTRATION)
 COURSE CODE: CSE0002
 SLOT : E11
 
